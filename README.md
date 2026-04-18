@@ -4,7 +4,7 @@ This project presents a Power BI dashboard analysing patient appointment attenda
 
 Dashboard Preview
 Executive Dashboard
-Advanced Analysis
+[Advanced Analysis](https://github.com/NmaCharis/Patient-no-show-analysis-dashboard/blob/main/Patient%20No-Show%20Advanced%20Analaysis.png)
 
 Objectives
 •	Analyse patient attendance trends 
