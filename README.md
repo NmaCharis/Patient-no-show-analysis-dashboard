@@ -2,6 +2,10 @@ Patient No-Show Analysis Dashboard
 Project Overview
 This project presents a Power BI dashboard analysing patient appointment attendance to identify patterns and factors influencing missed appointments.
 
+Dashboard Preview
+Executive Dashboard
+Advanced Analysis
+
 Objectives
 •	Analyse patient attendance trends 
 •	Identify factors contributing to no-shows 
@@ -18,6 +22,7 @@ Page 1: Executive Dashboard
 •	Show vs No-Show Analysis 
 •	No-Show Rate (%) 
 •	Gender Distribution 
+
 Page 2: Advanced Analysis
 •	Age Group Analysis 
 •	SMS Reminder Impact 
@@ -31,8 +36,4 @@ Key Insights
 
  Conclusion
 The analysis highlights that socioeconomic factors and patient circumstances play a key role in healthcare attendance.
-
-
-
-
 
