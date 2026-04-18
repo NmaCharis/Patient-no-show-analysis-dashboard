@@ -3,7 +3,7 @@ Project Overview
 This project presents a Power BI dashboard analysing patient appointment attendance to identify patterns and factors influencing missed appointments.
 
 Dashboard Preview
-Executive Dashboard
+[Executive Dashboard](https://github.com/NmaCharis/Patient-no-show-analysis-dashboard/blob/main/Patient%20No-Show%20Executive%20Dashboard.png)
 [Advanced Analysis](https://github.com/NmaCharis/Patient-no-show-analysis-dashboard/blob/main/Patient%20No-Show%20Advanced%20Analaysis.png)
 
 Objectives
