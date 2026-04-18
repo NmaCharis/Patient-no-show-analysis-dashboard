@@ -1,18 +1,18 @@
-Patient No-Show Analysis Dashboard
-Project Overview
+## Patient No-Show Analysis Dashboard
+## Project Overview
 
 
 This project presents a Power BI dashboard analysing patient appointment attendance to identify patterns and factors influencing missed appointments.
 
 
-Dashboard Preview
+## Dashboard Preview
 [Executive Dashboard](https://github.com/NmaCharis/Patient-no-show-analysis-dashboard/blob/main/Patient%20No-Show%20Executive%20Dashboard.png)
 
 
 [Advanced Analysis](https://github.com/NmaCharis/Patient-no-show-analysis-dashboard/blob/main/Patient%20No-Show%20Advanced%20Analaysis.png)
 
 
-Objectives
+## Objectives
 •	Analyse patient attendance trends 
 
 
@@ -23,7 +23,7 @@ Objectives
 
 
 
-Tools Used
+## Tools Used
 •	Power BI 
 
 
@@ -34,10 +34,10 @@ Tools Used
 
 
 
-Dashboard Features
+## Dashboard Features
 
 
-Page 1: Executive Dashboard
+## Page 1: Executive Dashboard
 
 
 •	Total Patients 
@@ -53,7 +53,7 @@ Page 1: Executive Dashboard
 
 
 
-Page 2: Advanced Analysis
+## Page 2: Advanced Analysis
 
 
 •	Age Group Analysis 
@@ -66,7 +66,7 @@ Page 2: Advanced Analysis
 
 
 
-Key Insights
+## Key Insights
 
 
 •	Approximately 20.3% of patients missed their appointments 
@@ -82,7 +82,7 @@ Key Insights
 
 
 
- Conclusion
+## Conclusion
 
  
 The analysis highlights that socioeconomic factors and patient circumstances play a key role in healthcare attendance.
